@@ -1,22 +1,31 @@
+<p align="center">
+  <img src="banner.png" alt="Aman Kumar Panda Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aman Kumar Panda</h1>
 
 <h3 align="center">
-Cybersecurity Practitioner | AI Security Researcher | VAPT Practitioner| OSINT | MCA (Cybersecurity & Forensic Science)
+Cybersecurity Practitioner • AI Security Researcher • VAPT • Threat Detection
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=00F7FF&lines=Cybersecurity+Practitioner;AI-Powered+Threat+Detection+Developer;VAPT+%7C+OSINT+%7C+Digital+Forensics;Building+Next-Generation+Cybersecurity+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&color=00F7FF&lines=Cybersecurity+Practitioner;AI-Powered+Threat+Detection;VAPT+%7C+OSINT+%7C+Digital+Forensics;Building+Intelligent+Cybersecurity+Solutions" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmanPanda24&label=Profile%20Views&color=00F7FF&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/AmanPanda24?style=flat-square&color=blue"/>
-<img src="https://img.shields.io/github/stars/AmanPanda24?style=flat-square&color=yellow"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=flat-square"/>
+
+<img src="https://komarev.com/ghpvc/?username=AmanPanda24&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/AmanPanda24?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/AmanPanda24?affiliations=OWNER&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif">
 </p>
 
 # 🚀 About Me
@@ -46,39 +55,31 @@ I enjoy building practical security tools that solve real-world cybersecurity pr
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-### 💻 Programming Languages
+<p align="center">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi">
 
-### ⚙ Frameworks & Technologies
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
-<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
 
 </p>
 
@@ -95,7 +96,6 @@ I enjoy building practical security tools that solve real-world cybersecurity pr
 ### 🛡 Penetration Testing
 
 - Web Application Security
-- API Security
 - Network Penetration Testing
 - Authentication Testing
 - OWASP Top 10
@@ -234,16 +234,6 @@ Python • Flask • REST API • Google Gemini • Groq LLaMA
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmanPanda24&theme=algolia&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
 # 📜 Certifications
 
 🏅 Certified Ethical Hacker (CEH v12) — EC-Council
@@ -268,15 +258,21 @@ Python • Flask • REST API • Google Gemini • Groq LLaMA
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Malware Analysis
-- Reverse Engineering
-- Active Directory Security
-- Detection Engineering
-- Cloud Security
-- Kubernetes Security
-- AI Security Research
+✔ Malware Analysis
+
+✔ Reverse Engineering
+
+✔ Active Directory
+
+✔ Detection Engineering
+
+✔ Kubernetes Security
+
+✔ Cloud Security
+
+✔ AI Security
 
 ---
 
@@ -294,7 +290,9 @@ Python • Flask • REST API • Google Gemini • Groq LLaMA
 
 # 💬 Quote
 
-> **"Hack to Learn. Build to Protect."**
+<p align="left">
+
+Hack to Learn, Build to Protect.
 
 ---
 
